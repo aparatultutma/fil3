@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "symbols": [
+    {
+      "symbol": "Kuş",
+      "status": "universal",
+      "translations": {
+        "tr": "Kuş fincanında kanat çırpıyor; sana yaklaşan bir haber ve özgürlük müjdesi var.",
+        "en": "A bird flutters in your cup, bringing news and the promise of freedom.",
+        "id": "Seekor burung mengepak di cangkirmu; kabar dan kebebasan segera datang."
+      }
+    },
+    {
+      "symbol": "Anahtar",
+      "status": "universal",
+      "translations": {
+        "tr": "Anahtar sana doğru uzanıyor; açılmayı bekleyen kapılar önünde belirmekte.",
+        "en": "The key reaches out to you; doors waiting to be opened appear ahead.",
+        "id": "Kunci mendekat padamu; pintu yang menunggu terbuka mulai terlihat."
+      }
+    },
+    {
+      "symbol": "Ay",
+      "status": "universal",
+      "translations": {
+        "tr": "Ay ışığı fincanda parlıyor; sezgilerin önünü aydınlatıyor.",
+        "en": "The moonlight shines in the cup, guiding your intuition forward.",
+        "id": "Cahaya bulan bersinar di cangkir; intuisi Anda menerangi jalan."
+      }
+    }
+  ]
+}

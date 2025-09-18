@@ -1,0 +1,56 @@
+{
+  "version": "3.0",
+  "symbols": [
+    {
+      "symbol": "Kuş",
+      "culture_notes": [
+        {
+          "culture": "Kızılderili",
+          "note_tr": "Kuş ruhun rehberi kabul edilirdi.",
+          "note_en": "Birds were seen as spirit guides.",
+          "note_id": "Burung dianggap sebagai penuntun roh.",
+          "allow": [
+            "GLOBAL",
+            "TR",
+            "ID",
+            "MY",
+            "SG"
+          ]
+        }
+      ]
+    },
+    {
+      "symbol": "Anahtar",
+      "culture_notes": [
+        {
+          "culture": "Antik Mısır",
+          "note_tr": "Ankh yaşamın anahtarıydı.",
+          "note_en": "The Ankh was the key of life.",
+          "note_id": "Ankh adalah kunci kehidupan.",
+          "allow": [
+            "GLOBAL",
+            "TR"
+          ]
+        }
+      ]
+    },
+    {
+      "symbol": "Ay",
+      "culture_notes": [
+        {
+          "culture": "Çin",
+          "note_tr": "Ay, Yin enerjisini simgeler.",
+          "note_en": "The Moon embodies Yin energy.",
+          "note_id": "Bulan mewujudkan energi Yin.",
+          "allow": [
+            "GLOBAL",
+            "ID",
+            "MY",
+            "TR",
+            "SG"
+          ]
+        }
+      ]
+    }
+  ]
+}
